@@ -794,7 +794,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/SGGmini/iptv/main/qiptv.json",
+      "url": "https://wds.ecsxs.com/230864.json",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
