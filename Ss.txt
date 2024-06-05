@@ -471,6 +471,16 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 其他频道IPv4,#genre#
+北京IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=bj4k
+广东4K超高清,http://php.jdshipin.com:8880/iptv.php?id=gd4k
+广州南国都市4K,http://php.jdshipin.com:8880/iptv.php?id=ngds4k
+绚影4K,http://php.jdshipin.com:8880/iptv.php?id=xy4k
+湖南IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=hn4k
+云南4K,http://php.jdshipin.com:8880/iptv.php?id=yn4k
+百视通4K测试,http://php.jdshipin.com:8880/iptv.php?id=bst4k
+百视通4K儿童,http://php.jdshipin.com:8880/iptv.php?id=bst4ket
+百视通4K电影,http://php.jdshipin.com:8880/iptv.php?id=bst4kdy
+百视通4K纪实,http://php.jdshipin.com:8880/iptv.php?id=bst4kjs
 张家口1,http://121.19.134.82:808/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 秦皇岛1,http://121.19.134.82:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 高碑店1,http://121.19.134.82:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
