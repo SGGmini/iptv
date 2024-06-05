@@ -424,6 +424,7 @@ CCTV央视文化精品,https://tv.iill.top/live/whjp
 黑龙江视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 咪咕直播,#genre#
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 咪咕运动「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播4K Ⅰ「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
@@ -471,17 +472,9 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 其他频道IPv4,#genre#
-北京IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=bj4k
-广东4K超高清,http://php.jdshipin.com:8880/iptv.php?id=gd4k
-广州南国都市4K,http://php.jdshipin.com:8880/iptv.php?id=ngds4k
-绚影4K,http://php.jdshipin.com:8880/iptv.php?id=xy4k
-湖南IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=hn4k
-云南4K,http://php.jdshipin.com:8880/iptv.php?id=yn4k
-百视通4K测试,http://php.jdshipin.com:8880/iptv.php?id=bst4k
-百视通4K儿童,http://php.jdshipin.com:8880/iptv.php?id=bst4ket
-百视通4K电影,http://php.jdshipin.com:8880/iptv.php?id=bst4kdy
-百视通4K纪实,http://php.jdshipin.com:8880/iptv.php?id=bst4kjs
-张家口1,http://121.19.134.82:808/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 秦皇岛1,http://121.19.134.82:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 高碑店1,http://121.19.134.82:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://121.19.134.13:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
