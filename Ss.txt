@@ -563,7 +563,6 @@ QTV-5,http://119.166.185.152:8888/udp/239.253.254.253:8000
 
 其他频道IPv4,#genre#
 福建体育,http://27.152.157.180:6666/rtp/239.61.2.160:8948
-福建少儿,http://27.152.157.180:6666/rtp/239.61.2.9:8048
 海峡卫视,http://27.152.157.180:6666/rtp/239.61.2.151:8894
 厦门卫视,http://27.152.157.180:6666/rtp/239.61.2.11:8060
 厦门1套,http://27.152.157.180:6666/rtp/239.61.3.55:9848
@@ -857,6 +856,7 @@ J Sports 1[960*544][960*544],http://cdns.jp-primehome.com:8000/zhongying/live/pl
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
+福建少儿,http://27.152.157.180:6666/rtp/239.61.2.9:8048
 百事通4K儿童,http://www.17888.fun:10000//rtp/239.45.1.1:5140?$浦东电信组播
 优漫卡通,http://219.135.208.218:8083/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://219.135.208.218:8083/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
