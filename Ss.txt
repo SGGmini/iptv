@@ -29,25 +29,6 @@ CCTV16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/P
 CCTV16 奥林匹克 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1 综合,http://119.166.185.152:8888/udp/239.253.254.77:8000
-CCTV2 财经,http://119.166.185.152:8888/udp/239.253.254.232:8000
-CCTV3 综艺,http://119.166.185.152:8888/udp/239.253.254.191:8000
-CCTV4 中文国际,http://119.166.185.152:8888/udp/239.253.254.111:8000
-CCTV4 中文国际,http://119.166.185.152:8888/udp/239.253.254.186:8000
-CCTV4 中文国际,http://119.166.185.152:8888/udp/239.253.254.187:8000
-CCTV5 体育,http://119.166.185.152:8888/udp/239.253.254.192:8000
-CCTV5+ 体育赛事,http://119.166.185.152:8888/udp/239.253.254.80:8000
-CCTV6 电影http://119.166.185.152:8888/udp/239.253.254.193:8000
-CCTV7 国防军事,http://119.166.185.152:8888/udp/239.253.254.233:8000
-CCTV8 电视剧,http://119.166.185.152:8888/udp/239.253.254.194:8000
-CCTV9 纪录,http://119.166.185.152:8888/udp/239.253.254.79:8000
-CCTV10 科教,http://119.166.185.152:8888/udp/239.253.254.234:8000
-CCTV11 戏曲,http://119.166.185.152:8888/udp/239.253.254.169:8000
-CCTV12 社会与法,http://119.166.185.152:8888/udp/239.253.254.235:8000
-CCTV13 新闻,http://119.166.185.152:8888/udp/239.253.254.175:8000
-CCTV14 少儿,http://119.166.185.152:8888/udp/239.253.254.236:8000
-CCTV15 音乐,http://119.166.185.152:8888/udp/239.253.254.170:8000
-CCTV17 农业农村,http://119.166.185.152:8888/udp/239.253.254.168:8000
 
 CCTV1 综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
 CCTV2 财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
@@ -262,32 +243,7 @@ CCTV央视文化精品,https://tv.iill.top/live/whjp
 贵州卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 吉林卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
-安徽卫视,http://119.166.185.152:8888/udp/239.253.254.87:8000
-北京卫视,http://119.166.185.152:8888/udp/239.253.254.85:8000
-东方卫视,http://119.166.185.152:8888/udp/239.253.254.86:8000
-东南卫视,http://119.166.185.152:8888/udp/239.253.254.105:8000
-甘肃卫视,http://119.166.185.152:8888/udp/239.253.254.74:8000
-广东卫视,http://119.166.185.152:8888/udp/239.253.254.90:8000
-广西卫视,http://119.166.185.152:8888/udp/239.253.254.197:8000
-贵州卫视,http://119.166.185.152:8888/udp/239.253.254.113:8000
-海南卫视,http://119.166.185.152:8888/udp/239.253.254.179:8000
-河北卫视,http://119.166.185.152:8888/udp/239.253.254.112:8000
-河南卫视,http://119.166.185.152:8888/udp/239.253.254.190:8000
-黑龙江卫视,http://119.166.185.152:8888/udp/239.253.254.93:8000
-湖北卫视,http://119.166.185.152:8888/udp/239.253.254.88:8000
-湖南卫视,http://119.166.185.152:8888/udp/239.253.254.82:8000
-吉林卫视,http://119.166.185.152:8888/udp/239.253.254.173:8000
-江苏卫视,http://119.166.185.152:8888/udp/239.253.254.83:8000
-江西卫视,http://119.166.185.152:8888/udp/239.253.254.47:8000
-辽宁卫视,http://119.166.185.152:8888/udp/239.253.254.92:8000
-青海卫视,http://119.166.185.152:8888/udp/239.253.254.195:8000
-山东卫视,http://119.166.185.152:8888/udp/239.253.254.78:8000
-深圳卫视,http://119.166.185.152:8888/udp/239.253.254.91:8000
-四川卫视,http://119.166.185.152:8888/udp/239.253.254.180:8000
-天津卫视,http://119.166.185.152:8888/udp/239.253.254.89:8000
-云南卫视,http://119.166.185.152:8888/udp/239.253.254.196:8000
-浙江卫视,http://119.166.185.152:8888/udp/239.253.254.84:8000
-重庆卫视,http://119.166.185.152:8888/udp/239.253.254.38:8000
+
 
 
 北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
@@ -471,99 +427,154 @@ CCTV央视文化精品,https://tv.iill.top/live/whjp
 黑龙江视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 咪咕直播,#genre#
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-咪咕运动「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播4K Ⅰ「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-咪咕直播4K Ⅱ「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 咪咕直播 𝟙*「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕直播 𝟚*「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播 𝟛*「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播 𝟜*「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播 𝟜「IPV6」,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-咪咕直播 𝟝「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播 𝟞「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播 𝟟「IPV6」,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播 𝟠「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播 𝟡「IPV6」,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播 𝟙𝟘「IPV6」,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播 𝟙𝟙「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播 𝟙𝟚「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播 𝟙𝟛「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播 𝟙𝟜「IPV6」,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播 𝟙𝟝「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播 𝟙𝟞「IPV6」,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播 𝟙𝟟「IPV6」,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播 𝟙𝟠「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播 𝟙𝟡「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播 𝟚𝟘「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播 𝟚𝟙「IPV6」,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播 𝟚2「IPV6」,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播 𝟚3「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播 𝟚𝟜「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播 𝟚𝟝「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播 𝟚𝟞「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播 𝟚𝟟「IPV6」,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播 𝟚𝟠「IPV6」,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-咪咕直播 𝟚𝟡「IPV6」,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播 𝟚𝟘「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播 𝟛𝟙「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播 𝟛𝟚「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播 𝟛𝟛「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播 𝟛𝟜「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播 𝟛𝟝「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播 𝟛𝟞「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+咪咕直播4K Ⅰ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K Ⅱ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕直播 1「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕直播 2「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+咪咕直播 3「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕直播 4「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+咪咕直播 5「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+咪咕直播 6「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+咪咕直播 7「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+咪咕直播 8「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕直播 9「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+咪咕直播 10「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+咪咕直播 11「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+咪咕直播 12「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+咪咕直播 13「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+咪咕直播 14「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+咪咕直播 15「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+咪咕直播 16「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+咪咕直播 17「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+咪咕直播 18「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+咪咕直播 19「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+咪咕直播 20「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+咪咕直播 21「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+咪咕直播 22「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+咪咕直播 23「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+咪咕直播 24「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+咪咕直播 25「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+咪咕直播 26「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+咪咕直播 27「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+咪咕直播 29「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+咪咕直播 30「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+咪咕直播 31「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+咪咕直播 32「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+咪咕直播 33「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+咪咕直播 34「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+咪咕直播 35「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+咪咕直播 36「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+咪咕直播 37「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+咪咕直播 38「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+咪咕直播 39「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+咪咕直播 40「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+咪咕直播 41「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+咪咕直播 42「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+咪咕直播 43「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+咪咕直播 44「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+咪咕直播 45「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+咪咕直播4K Ⅰ「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K Ⅱ「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕直播 1「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕直播 2「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+咪咕直播 3「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕直播 4「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+咪咕直播 5「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+咪咕直播 6「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+咪咕直播 7「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+咪咕直播 8「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕直播 9「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+咪咕直播 10「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+咪咕直播 11「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+咪咕直播 12「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+咪咕直播 13「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+咪咕直播 14「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+咪咕直播 15「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+咪咕直播 16「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+咪咕直播 17「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+咪咕直播 18「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+咪咕直播 19「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+咪咕直播 20「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+咪咕直播 21「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+咪咕直播 22「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+咪咕直播 23「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+咪咕直播 24「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+咪咕直播 25「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+咪咕直播 26「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+咪咕直播 27「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+咪咕直播 28「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+咪咕直播 29「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+咪咕直播 30「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+咪咕直播 31「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+咪咕直播 32「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+咪咕直播 33「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+咪咕直播 34「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+咪咕直播 35「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+咪咕直播 36「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+咪咕直播 37「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+咪咕直播 38「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+咪咕直播 39「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+咪咕直播 40「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+咪咕直播 41「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+咪咕直播 42「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+咪咕直播 43「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+咪咕直播 44「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+咪咕直播 45「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+
 
 山东联通组播,#genre#
-莱西,http://119.166.185.152:8888/udp/239.253.254.247:8000
+
 莱西,http://119.165.141.229:6666/udp/239.253.254.247:8000
 莱西,http://39.77.3.5:8989/udp/239.253.254.247:8000
-崂山,http://119.166.185.152:8888/udp/239.253.254.242:8000
+
 崂山,http://119.165.141.229:6666/udp/239.253.254.242:8000
 崂山,http://39.77.3.5:8989/udp/239.253.254.242:8000
 梨园,http://119.165.141.229:6666/udp/239.253.254.139:8000
 精彩电影,http://119.165.141.229:6666/udp/239.253.254.142:8000
 精彩电影,http://39.77.3.5:8989/udp/239.253.254.142:8000
-魅力足球,http://119.166.185.152:8888/udp/239.253.254.100:8000
+
 魅力足球,http://119.165.141.229:6666/udp/239.253.254.100:8000
 魅力足球,http://39.77.3.5:8989/udp/239.253.254.100:8000
-平度,http://119.166.185.152:8888/udp/239.253.254.248:8000
 平度,http://119.165.141.229:6666/udp/239.253.254.248:8000
 平度,http://39.77.3.5:8989/udp/239.253.254.248:8000
 QTV-1,http://119.165.141.229:6666/udp/239.253.254.249:8000
-QTV-1,http://119.166.185.152:8888/udp/239.253.254.249:8000
+
 QTV-2,http://119.165.141.229:6666/udp/239.253.254.250:8000
-QTV-2,http://119.166.185.152:8888/udp/239.253.254.250:8000
+
 QTV-3,http://119.165.141.229:6666/udp/239.253.254.251:8000
-QTV-3,http://119.166.185.152:8888/udp/239.253.254.251:8000
+
 QTV-4,http://119.165.141.229:6666/udp/239.253.254.252:8000
-QTV-4,http://119.166.185.152:8888/udp/239.253.254.252:8000
+
 QTV-5,http://119.165.141.229:6666/udp/239.253.254.253:8000
-QTV-5,http://119.166.185.152:8888/udp/239.253.254.253:8000
+
 青岛生活,http://119.165.141.229:6666/udp/239.253.254.244:8000
-青岛生活,http://119.166.185.152:8888/udp/239.253.254.244:8000
+
 青岛综合,http://119.165.141.229:6666/udp/239.253.254.243:8000
-青岛综合,http://119.166.185.152:8888/udp/239.253.254.243:8000
+
 山东体育,http://119.165.141.229:6666/udp/239.253.254.22:8000
-山东体育,http://119.166.185.152:8888/udp/239.253.254.22:8000
+
 山东综艺,http://119.165.141.229:6666/udp/239.253.254.159:8000
-山东综艺,http://119.166.185.152:8888/udp/239.253.254.159:8000
+
 山东齐鲁,http://119.165.141.229:6666/udp/239.253.254.114:8000
-山东齐鲁,http://119.166.185.152:8888/udp/239.253.254.114:8000
+
 山东生活,http://119.165.141.229:6666/udp/239.253.254.151:8000
-山东生活,http://119.166.185.152:8888/udp/239.253.254.151:8000
+
 山东少儿,http://119.165.141.229:6666/udp/239.253.254.25:8000
-山东少儿,http://119.166.185.152:8888/udp/239.253.254.25:8000
+
 山东新闻,http://119.165.141.229:6666/udp/239.253.254.23:8000
-山东新闻,http://119.166.185.152:8888/udp/239.253.254.23:8000
+
 
 其他频道IPv4,#genre#
+江苏频道[hud],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 福建体育,http://27.152.157.180:6666/rtp/239.61.2.160:8948
 海峡卫视,http://27.152.157.180:6666/rtp/239.61.2.151:8894
 厦门卫视,http://27.152.157.180:6666/rtp/239.61.2.11:8060
@@ -645,9 +656,18 @@ CGTN,http://119.166.185.152:8888/udp/239.253.254.189:8000
 
 
 电影频道,#genre#
+bestv1,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv2,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv3,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv4,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv5,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv6,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+bestv7,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 百事通4K电影,http://www.17888.fun:10000//udp/239.45.3.107:5140?$浦东电信组播
 欢笑剧场4K,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信组播
 欢笑剧场4K,http://qingcheng.pro:7890/udp/238.125.5.122:5140?$新疆电信组播
+华数电影4K,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+华数电影4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 华数电影4K,http://920425.xyz:6666/rtp/239.253.240.102:8000?$山东泰安联通
 北京4K超清,http://115.171.216.54:4000/udp/225.1.8.211:8002?$北京电信组播
 北京4K超清,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001$北京联通组播1
@@ -1622,6 +1642,116 @@ key=0b292c335e5837e947f9409c59228f3e6
 小猪佩奇第七季第18集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B8%83%E5%AD%A3/18.mp4
 小猪佩奇第七季第19集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B8%83%E5%AD%A3/19.mp4
 小猪佩奇第七季第20集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B8%83%E5%AD%A3/20.mp4
+🌈小猪佩奇第八季,#genre#
+小猪佩奇第八季第1集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/01.mp4
+小猪佩奇第八季第2集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/02.mp4
+小猪佩奇第八季第3集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/03.mp4
+小猪佩奇第八季第4集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/04.mp4
+小猪佩奇第八季第5集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/05.mp4
+小猪佩奇第八季第6集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/06.mp4
+小猪佩奇第八季第7集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/07.mp4
+小猪佩奇第八季第8集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/08.mp4
+小猪佩奇第八季第9集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/09.mp4
+小猪佩奇第八季第10集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/10.mp4
+小猪佩奇第八季第11集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/11.mp4
+小猪佩奇第八季第12集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/12.mp4
+小猪佩奇第八季第13集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/13.mp4
+小猪佩奇第八季第14集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/14.mp4
+小猪佩奇第八季第15集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/15.mp4
+小猪佩奇第八季第16集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/16.mp4
+小猪佩奇第八季第17集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/17.mp4
+小猪佩奇第八季第18集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/18.mp4
+小猪佩奇第八季第19集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/19.mp4
+小猪佩奇第八季第20集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/20.mp4
+小猪佩奇第八季第21集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/21.mp4
+小猪佩奇第八季第22集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/22.mp4
+小猪佩奇第八季第23集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/23.mp4
+小猪佩奇第八季第24集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/24.mp4
+小猪佩奇第八季第25集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/25.mp4
+小猪佩奇第八季第26集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/26.mp4
+小猪佩奇第八季第27集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/27.mp4
+小猪佩奇第八季第28集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/28.mp4
+小猪佩奇第八季第29集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/29.mp4
+小猪佩奇第八季第30集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/30.mp4
+小猪佩奇第八季第31集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/31.mp4
+小猪佩奇第八季第32集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/32.mp4
+小猪佩奇第八季第33集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/33.mp4
+小猪佩奇第八季第34集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/34.mp4
+小猪佩奇第八季第35集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/35.mp4
+小猪佩奇第八季第36集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/36.mp4
+小猪佩奇第八季第37集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/37.mp4
+小猪佩奇第八季第38集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/38.mp4
+小猪佩奇第八季第39集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/39.mp4
+小猪佩奇第八季第40集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/40.mp4
+小猪佩奇第八季第41集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/41.mp4
+小猪佩奇第八季第42集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/42.mp4
+小猪佩奇第八季第43集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/43.mp4
+小猪佩奇第八季第44集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/44.mp4
+小猪佩奇第八季第45集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E5%85%AB%E5%AD%A3/45.mp4
+🌈小猪佩奇第九季,#genre#
+小猪佩奇第九季第1集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/01.mp4
+小猪佩奇第九季第2集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/02.mp4
+小猪佩奇第九季第3集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/03.mp4
+小猪佩奇第九季第4集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/04.mp4
+小猪佩奇第九季第5集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/05.mp4
+小猪佩奇第九季第6集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/06.mp4
+小猪佩奇第九季第7集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/07.mp4
+小猪佩奇第九季第8集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/08.mp4
+小猪佩奇第九季第9集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/09.mp4
+小猪佩奇第九季第10集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/10.mp4
+小猪佩奇第九季第11集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/11.mp4
+小猪佩奇第九季第12集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/12.mp4
+小猪佩奇第九季第13集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/13.mp4
+小猪佩奇第九季第14集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/14.mp4
+小猪佩奇第九季第15集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/15.mp4
+小猪佩奇第九季第16集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/16.mp4
+小猪佩奇第九季第17集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/17.mp4
+小猪佩奇第九季第18集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/18.mp4
+小猪佩奇第九季第19集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/19.mp4
+小猪佩奇第九季第20集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/20.mp4
+小猪佩奇第九季第21集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/21.mp4
+小猪佩奇第九季第22集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/22.mp4
+小猪佩奇第九季第23集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/23.mp4
+小猪佩奇第九季第24集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/24.mp4
+小猪佩奇第九季第25集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/25.mp4
+小猪佩奇第九季第26集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/26.mp4
+小猪佩奇第九季第27集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/27.mp4
+小猪佩奇第九季第28集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/28.mp4
+小猪佩奇第九季第29集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/29.mp4
+小猪佩奇第九季第30集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/30.mp4
+小猪佩奇第九季第31集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/31.mp4
+小猪佩奇第九季第32集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/32.mp4
+小猪佩奇第九季第33集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/33.mp4
+小猪佩奇第九季第34集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/34.mp4
+小猪佩奇第九季第35集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/35.mp4
+小猪佩奇第九季第36集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/36.mp4
+小猪佩奇第九季第37集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/37.mp4
+小猪佩奇第九季第38集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/38.mp4
+小猪佩奇第九季第39集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/39.mp4
+小猪佩奇第九季第40集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/40.mp4
+小猪佩奇第九季第41集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/41.mp4
+小猪佩奇第九季第42集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/42.mp4
+小猪佩奇第九季第43集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/43.mp4
+小猪佩奇第九季第44集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/44.mp4
+小猪佩奇第九季第45集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/45.mp4
+小猪佩奇第九季第46集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/46.mp4
+小猪佩奇第九季第47集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/47.mp4
+小猪佩奇第九季第48集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/48.mp4
+小猪佩奇第九季第49集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/49.mp4
+小猪佩奇第九季第50集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/50.mp4
+小猪佩奇第九季第51集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/51.mp4
+小猪佩奇第九季第52集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/52.mp4
+小猪佩奇第九季第53集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/53.mp4
+小猪佩奇第九季第54集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/54.mp4
+小猪佩奇第九季第55集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/55.mp4
+小猪佩奇第九季第56集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/56.mp4
+小猪佩奇第九季第57集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/57.mp4
+小猪佩奇第九季第58集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/58.mp4
+小猪佩奇第九季第59集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/59.mp4
+小猪佩奇第九季第60集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/60.mp4
+小猪佩奇第九季第61集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/61.mp4
+小猪佩奇第九季第62集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/62.mp4
+小猪佩奇第九季第63集,http://45.82.244.66:8188/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/%E7%AC%AC%E4%B9%9D%E5%AD%A3/63.mp4
 
 帕梅拉,#genre#
 帕梅拉10分钟暴汗有氧｜内啡肽UP 欢乐高强有氧舞步 (PamelaReif Official),https://8961.kstore.space/帕梅拉 - 10分钟暴汗有氧｜内啡肽UP 欢乐高强有氧舞步 （PamelaReif Official）.mp4
