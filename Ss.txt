@@ -576,8 +576,13 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 山东联通组播,#genre#
+即墨综合,https://tv.cry33.com/qilu.php?id=qdjmzh
+即墨生活服务,https://tv.cry33.com/qilu.php?id=qdjmsh
+莱西,https://tv.cry33.com/qilu.php?id=qdlxzh
 莱西,http://119.166.185.152:8888/udp/239.253.254.247:8000
 莱西,http://119.165.141.229:6666/udp/239.253.254.247:8000
+莱西生活,https://tv.cry33.com/qilu.php?id=qdlxsh
+崂山,https://tv.cry33.com/qilu.php?id=qdls
 崂山,http://119.166.185.152:8888/udp/239.253.254.242:8000
 崂山,http://119.165.141.229:6666/udp/239.253.254.242:8000
 梨园,http://119.166.185.152:8888/udp/239.253.254.139:8000
@@ -586,8 +591,11 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 精彩电影,http://119.165.141.229:6666/udp/239.253.254.142:8000
 魅力足球,http://119.166.185.152:8888/udp/239.253.254.100:8000
 魅力足球,http://119.165.141.229:6666/udp/239.253.254.100:8000
+平度,https://tv.cry33.com/qilu.php?id=qdpdxw
 平度,http://119.166.185.152:8888/udp/239.253.254.248:8000
 平度,http://119.165.141.229:6666/udp/239.253.254.248:8000
+平度生活服务,https://tv.cry33.com/qilu.php?id=qdpdsh
+QTV-1,http://hlspull.qtv.com.cn/gwepn2sr/channel/969b06fca3f82c40de59171b3eb9428c/index.m3u8
 QTV-1,http://119.166.185.152:8888/udp/239.253.254.249:8000
 QTV-1,http://119.165.141.229:6666/udp/239.253.254.249:8000
 QTV-2,http://119.166.185.152:8888/udp/239.253.254.250:8000
