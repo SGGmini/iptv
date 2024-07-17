@@ -574,8 +574,8 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 山东联通组播,#genre#
-即墨综合
-即墨生活服务
+即墨综合,http://vkgq.91kds.cn/live1/iqilu.m3u8?id=sdqdjm1&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721184244&sign=e4664352e61df65426d0d34ab0a21e34&ev=20240716
+即墨生活服务,http://vkgq.91kds.cn/live1/iqilu.m3u8?id=sdqdjm2&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721184660&sign=1a5bebea4f2db793d1c3a866df76e86b&ev=20240716
 莱西
 莱西
 莱西
@@ -611,7 +611,7 @@ QTV-5
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
 山东体育
 齐鲁高清,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
-山东综艺
+山东综艺,http://vkgq.91kds.cn/live1/jdtv2.m3u8?id=sdzy&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721185053&sign=a6caaecea41d0ef6532a48661a8ae3d4&ev=20240716
 山东综艺
 山东齐鲁
 山东齐鲁
