@@ -468,8 +468,8 @@ CCTV央视文化精品,https://tv.iill.top/live/whjp
 黑龙江视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 咪咕直播,#genre#
-魅力足球,http://cqcu3.live.cbncdn.cn:80/session/dcf752ac-4253-11ef-a5df-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8?token=cc8bfa691652f960885bef37c008c829_1721097742_1721097742
-五星体育,http://vkgq.91kds.cn/live1/jdtv2.m3u8?id=wxtyhd&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721015043&sign=deaf7ebbf5676ffca17d2b152d805e7f&ev=20240712
+魅力足球
+五星体育
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
@@ -574,8 +574,8 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 山东联通组播,#genre#
-即墨综合,http://vkgq.91kds.cn/live1/iqilu.m3u8?id=sdqdjm1&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721014186&sign=248cb5add5a7b0cceb8af95737bed071&ev=20240712
-即墨生活服务,http://vkgq.91kds.cn/live1/iqilu.m3u8?id=sdqdjm2&app=com.jiaoxiang.fangnale&version=2.2.8&mac=aa:91:91:91:ff&nwtime=1721014342&sign=e17a46baabd1b029cb68afc74e073141&ev=20240712
+即墨综合
+即墨生活服务
 莱西
 莱西
 莱西
