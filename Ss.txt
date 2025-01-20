@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV4」",CCTV1 综合「IPV4」
-http://223.10.214.216:6001/udp/239.1.1.7:8007
+http://106.53.99.30/dl/bjyd.php?id=1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV4」",CCTV2 财经「IPV4」
 http://223.10.214.216:6001/udp/239.1.1.8:8008
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV4」",CCTV3 综艺「IPV4」
