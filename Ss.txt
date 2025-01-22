@@ -1,68 +1,99 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV4」",CCTV1 综合「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV4」",CCTV1 综合「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV4」",CCTV1 综合「IPV4」
 https://video.mytvsuper.xyz/live/5ce87c7ccc65bee992de317a8baa2efe6398bceb60c4802d51c1be8d8f1aa7e7.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV4」",CCTV2 财经「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV4」",CCTV2 财经「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV4」",CCTV2 财经「IPV4」
 https://video.mytvsuper.xyz/live/a236359e723aff18b1acefb92636b2ad7e84bdaaf0040e666fc40557ef4a0aeb.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV4」",CCTV3 综艺「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv3.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV4」",CCTV3 综艺「IPV4」
 https://video.mytvsuper.xyz/live/396bc33c629542e266d23971b36eb32789b1049baf95586bc6a3ab50d2c18dea.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央视「IPV4」",CCTV4 中文国际「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央视「IPV4」",CCTV4 中文国际「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央视「IPV4」",CCTV4 中文国际「IPV4」
 https://video.mytvsuper.xyz/live/b8482edda911833e4f3f4443c2eddc9a0a31057ce43e4e53ff064257bd08cc7b.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央视「IPV4」",CCTV5 体育「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央视「IPV4」",CCTV5 体育「IPV4」
 https://video.mytvsuper.xyz/live/b1187fffa3be1a8308408cf5cb62481c024ba715ceb45d8de23e93191e64dcf3.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV4」",CCTV5+ 体育赛事「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV4」",CCTV5+ 体育赛事「IPV4」
 https://video.mytvsuper.xyz/live/bf5664fb51fb9e7bb1e35801965648c69d36bdf1a1694893ed977e35a4a05764.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央视「IPV4」",CCTV6 电影「IPV4」
 https://video.mytvsuper.xyz/live/e2e31c2e0f1e5e7ab52f770d20b2fc3b5af6b84403be4b235942ed66b7374c29.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•央视「IPV4」",CCTV7 国防军事「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv7.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•央视「IPV4」",CCTV7 国防军事「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=4
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•央视「IPV4」",CCTV7 国防军事「IPV4」
 https://video.mytvsuper.xyz/live/4a1f0301dfd23c7c6e05ba0eab226b9599917ab1fba6e7bfcee3c4df992ba32d.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•央视「IPV4」",CCTV8 电视剧「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv8.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•央视「IPV4」",CCTV8 电视剧「IPV4」
 https://video.mytvsuper.xyz/live/d4257d921841b8c762d6ff6ca2e8e5b560b0a1fe4c176c0f549e7257d11b1489.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央视「IPV4」",CCTV9 纪录「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央视「IPV4」",CCTV9 纪录「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=5
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央视「IPV4」",CCTV9 纪录「IPV4」
 https://video.mytvsuper.xyz/live/7dd85bf5dd64bd3f52060268484dc22eeee1cc0a283aa8ae5235c6f9675cd858.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•央视「IPV4」",CCTV 10 科教「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv10.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•央视「IPV4」",CCTV 10 科教「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=6
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•央视「IPV4」",CCTV 10 科教「IPV4」
 https://video.mytvsuper.xyz/live/360ca2f1803fe3bb51c6c3343415a9d5ad350a1960d0d64219a7ed135b6ac006.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•央视「IPV4」",CCTV 11 戏曲「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•央视「IPV4」",CCTV 11 戏曲「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=7
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•央视「IPV4」",CCTV 11 戏曲「IPV4」
 https://video.mytvsuper.xyz/live/d4e08759455f8831d215b60b6e17f3363c62b057af602b33a8f50a9fcd68478d.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•央视「IPV4」",CCTV 12 社会与法「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv12.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•央视「IPV4」",CCTV 12 社会与法「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•央视「IPV4」",CCTV 12 社会与法「IPV4」
 https://video.mytvsuper.xyz/live/775e7eddf6d44e3860c258359a17d36f4ef00aa9b20f0fe38cd57fad5f789924.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央视「IPV4」",CCTV 13 新闻「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央视「IPV4」",CCTV 13 新闻「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=9
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央视「IPV4」",CCTV 13 新闻「IPV4」
 https://video.mytvsuper.xyz/live/7a04e033bdd523a4bd6c5c63bc611bfb986ecc56ced891642a9ba565e5a0e6da.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•央视「IPV4」",CCTV 14 少儿「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv14.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•央视「IPV4」",CCTV 14 少儿「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=10
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•央视「IPV4」",CCTV 14 少儿「IPV4」
 https://video.mytvsuper.xyz/live/7e446717e8030c342f8fa3c7ad5b1794a4d66b2dc322ff8e2c6da90736f3a039.m3u8?token=638109786925943
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央视「IPV4」",CCTV 15 音乐「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央视「IPV4」",CCTV 15 音乐「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=11
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央视「IPV4」",CCTV 15 音乐「IPV4」
 https://video.mytvsuper.xyz/live/5bd059b399e39677a77d608078561dd9914a88e878001f34a93c0dbc6866e732.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央视「IPV4」",CCTV 16 奥林匹克「IPV4」
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$LR•IPV4『线路29』
+http://b.zgjok.com:35455/gaoma/cctv16.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央视「IPV4」",CCTV 17 农村农业「IPV4」
+http://b.zgjok.com:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央视「IPV4」",CCTV 17 农村农业「IPV4」
 http://106.53.99.30/dl/bjyd.php?id=12
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央视「IPV4」",CCTV 17 农村农业「IPV4」
 https://video.mytvsuper.xyz/live/997e8402dcbe7f1497e76ce5ccc3c05a25e54e882509199ad4574a1a9775ad59.m3u8?token=638109786925943
-
-
 
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="•卫视「IPV4」",东方卫视
 https://video.mytvsuper.xyz/live/dc5ab5f81ec89341fb5f074a09d8ea58784e8c6a8a299ebd1d119cfe3d682fa2.m3u8?token=638109786925943
