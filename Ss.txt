@@ -15,8 +15,6 @@ http://106.53.99.30/dl/bjyd.php?id=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV4」",CCTV2 财经「IPV4」
 https://video.mytvsuper.xyz/live/a236359e723aff18b1acefb92636b2ad7e84bdaaf0040e666fc40557ef4a0aeb.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV4」",CCTV3 综艺「IPV4」
-http://b.zgjok.com:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV4」",CCTV3 综艺「IPV4」
 https://video.mytvsuper.xyz/live/396bc33c629542e266d23971b36eb32789b1049baf95586bc6a3ab50d2c18dea.m3u8?token=638109786925943
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央视「IPV4」",CCTV4 中文国际「IPV4」
 http://b.zgjok.com:35455/gaoma/cctv4.m3u8
